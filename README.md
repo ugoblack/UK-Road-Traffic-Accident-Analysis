@@ -59,7 +59,9 @@ This project analyzes **road traffic accident patterns in the UK (2020)** using 
 
 ## 📂 **Project Structure**
 ├── UK-Road-Traffic-Accident-Analysis.ipynb # Jupyter Notebook with implementation
+
 ├── UK-Road-Traffic-Accident-Analysis.pdf # Detailed report with findings 
+
 ├── README.md # This file
 
 
