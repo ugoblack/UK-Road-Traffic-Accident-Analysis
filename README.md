@@ -71,6 +71,6 @@ This project analyzes **road traffic accident patterns in the UK (2020)** using 
    git clone https://github.com/ugoblack/UK-Road-Traffic-Accident-Analysis.git
 2. Install dependencies
    pip install -r requirements.txt
-3.Open the Jupyter Notebook
+3. Open the Jupyter Notebook
   jupyter notebook UK-Road-Traffic-Accident-Analysis.ipynb
 
